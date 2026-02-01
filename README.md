@@ -2,8 +2,6 @@
 
 **Course Project | Information Theory**  
 Zewail City of Science and Technology  
-**Student: Mohamed Darwish (ID: 202201273)**  
-**Date: 2023** (Adjust based on actual year)
 
 [![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

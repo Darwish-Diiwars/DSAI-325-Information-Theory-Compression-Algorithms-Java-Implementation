@@ -1,0 +1,6 @@
+Test 2: Repeated Symbols
+Passed: Repeated symbols 'aaaabbb'
+    Encoded: 011000011110011000100101
+    Decoded: aaaabbb
+    Weight of 'a': 4 (Expected: 4)
+    Compression ratio: 2.33:1 (Original: 56 bits, Compressed: 24 bits)

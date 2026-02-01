@@ -1,0 +1,17 @@
+Test 1: Basic Encoding and Decoding
+Passed: 'a'
+    Encoded: 01100001
+    Decoded: a
+    Compression ratio: 1.00:1 (Original: 8 bits, Compressed: 8 bits)
+Passed: 'ab'
+    Encoded: 01100001001100010
+    Decoded: ab
+    Compression ratio: 0.94:1 (Original: 16 bits, Compressed: 17 bits)
+Passed: 'abc'
+    Encoded: 011000010011000100001100011
+    Decoded: abc
+    Compression ratio: 0.89:1 (Original: 24 bits, Compressed: 27 bits)
+Passed: 'hello'
+    Encoded: 01101000001100101000110110000100001101111
+    Decoded: hello
+    Compression ratio: 0.98:1 (Original: 40 bits, Compressed: 41 bits)
